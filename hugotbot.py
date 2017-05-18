@@ -19,7 +19,6 @@ pairs = [
         r'(.*)(mahal|love)(.*)',
         [
             "https://goo.gl/ndTZVq",
-            "Mabuti pa sa database may relationship. Eh tayo, wala.",
             "I always thought Love was a static class until you made an instance of it.",
             "I love user interfaces it's because that's where U and I are always together.",
         ],
